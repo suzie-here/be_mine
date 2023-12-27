@@ -130,5 +130,4 @@ dist
 .pnp.*
 
 # my own files
-public/images/heart.png
 package-lock.json
